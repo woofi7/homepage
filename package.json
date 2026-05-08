@@ -78,8 +78,13 @@
   "pnpm": {
     "onlyBuiltDependencies": [
       "@tailwindcss/oxide",
+      "core-js",
+      "cpu-features",
+      "esbuild",
       "osx-temperature-sensor",
-      "sharp"
+      "protobufjs",
+      "sharp",
+      "ssh2"
     ]
   }
 }

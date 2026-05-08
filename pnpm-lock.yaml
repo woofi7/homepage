@@ -4,6 +4,16 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - core-js
+  - cpu-features
+  - esbuild
+  - osx-temperature-sensor
+  - protobufjs
+  - sharp
+  - ssh2
+
 importers:
 
   .:
