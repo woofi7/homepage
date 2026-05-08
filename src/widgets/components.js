@@ -29,6 +29,7 @@ const components = {
   develancacheui: dynamic(() => import("./develancacheui/component")),
   diskstation: dynamic(() => import("./diskstation/component")),
   dispatcharr: dynamic(() => import("./dispatcharr/component")),
+  duplicati: dynamic(() => import("./duplicati/component")),
   downloadstation: dynamic(() => import("./downloadstation/component")),
   docker: dynamic(() => import("./docker/component")),
   dockhand: dynamic(() => import("./dockhand/component")),

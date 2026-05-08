@@ -1185,5 +1185,12 @@
         "burned": "Spalone",
         "remaining": "Pozostało",
         "steps": "Kroki"
+    },
+    "duplicati": {
+        "last_backup": "Last Backup",
+        "next_backup": "Next Backup",
+        "active_tasks": "Active Tasks",
+        "source_size": "Protected",
+        "dest_size": "Backup Size"
     }
 }

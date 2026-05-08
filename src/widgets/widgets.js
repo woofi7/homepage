@@ -24,6 +24,7 @@ import customapi from "./customapi/widget";
 import deluge from "./deluge/widget";
 import develancacheui from "./develancacheui/widget";
 import diskstation from "./diskstation/widget";
+import duplicati from "./duplicati/widget";
 import dispatcharr from "./dispatcharr/widget";
 import dockhand from "./dockhand/widget";
 import downloadstation from "./downloadstation/widget";
@@ -180,6 +181,7 @@ const widgets = {
   develancacheui,
   diskstation,
   dispatcharr,
+  duplicati,
   dockhand,
   downloadstation,
   emby,
